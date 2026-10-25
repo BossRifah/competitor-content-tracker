@@ -1,0 +1,6 @@
+.env
+.env.*
+.clasp.json
+.clasprc.json
+script-properties.json
+.DS_Store
